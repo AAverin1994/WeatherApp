@@ -1,7 +1,7 @@
 # WeatherApp
 This is a test weather app which shows the weather for 5 capitals of the world. This app use [open-meteo API](https://open-meteo.com/) for taking weather data.
 
-![Simulator Screen Recording - iPhone 16 - 2026-03-05 at 16 09 37](https://github.com/user-attachments/assets/0242515c-c315-435f-89e6-f06cf28b3fcc)
+https://github.com/user-attachments/assets/86ee7ba3-265e-4bb2-b072-f1373f788360
 
 # Technical stack
 
