@@ -1,6 +1,8 @@
 # WeatherApp
 This is a test weather app which shows the weather for 5 capitals of the world.
 
+![Simulator Screen Recording - iPhone 16 - 2026-03-05 at 16 09 37](https://github.com/user-attachments/assets/0242515c-c315-435f-89e6-f06cf28b3fcc)
+
 # Technical stack
 
 - SwiftUI
